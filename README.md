@@ -2,7 +2,7 @@
 
 Cow-Bull Pairing Algorithm for Cattle Breeding
 
-I've developed a Python algorithm that optimally pairs bulls with cows for artificial insemination while considering:
+I've developed a Python algorithm that optimally pairs bulls with cows while considering:
 
   1. Maximizing expected breeding value (EBV) of offspring
 
